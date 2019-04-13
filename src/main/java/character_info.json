@@ -1,0 +1,26 @@
+[{
+  "name": "Edd",
+  "age": "22",
+  "place": {
+    "name": "forest",
+    "x": "0101",
+    "y": "1010"
+  }
+},
+  {
+    "name": "Anna",
+    "age": "29",
+    "place": {
+      "name": "lake",
+      "x": "0101",
+      "y": "1010"
+    }
+  },{"name": "Steve",
+  "age": "40",
+  "place": {
+  "name": "forest",
+  "x": "0101",
+  "y": "1010"
+}
+  }
+]
